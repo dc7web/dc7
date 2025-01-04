@@ -7,3 +7,4 @@ PHP para iniciantes
 ### Tópicos
 
 -   include/require
+-   Variáveis, tipos de dados e referência
