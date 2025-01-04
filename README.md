@@ -1,5 +1,9 @@
-# ESSE REPOSITÓRIO APENAS PARA ESTUDO
+# APENAS PARA ESTUDO
 
-PHP para iniciantes (Curso Grátis)
+## Descrição
 
-Prof. Alexandre
+PHP para iniciantes (Curso Grátis) com Prof. Alexandre.
+
+### Tópicos
+
+-   include/require
