@@ -1,8 +1,8 @@
 # APENAS PARA ESTUDO
 
-## Descrição
+### Descrição
 
-PHP para iniciantes (Curso Grátis) com Prof. Alexandre.
+PHP para iniciantes
 
 ### Tópicos
 
