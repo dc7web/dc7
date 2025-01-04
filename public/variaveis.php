@@ -21,4 +21,4 @@ class name {}
 new name;
 
 # NULL
-// É ausencia de algum valor
+// É ausência de algum valor
